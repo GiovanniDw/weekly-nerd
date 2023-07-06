@@ -1,6 +1,12 @@
 # Weekly Nerd [@cmda-minor-web](https://github.com/cmda-minor-web) 2022 - 2023
 
-[artikelen](https://www.craft.me/s/J3pqserUMbXEHK/b/0E804D4F-984B-479F-8845-7556F43BB17B/A-ToneJS-Step-Sequencer-in-VueJS)
+## Published
+
+[Alle Artikelen](https://www.craft.me/s/J3pqserUMbXEHK/b/0E804D4F-984B-479F-8845-7556F43BB17B/A-ToneJS-Step-Sequencer-in-VueJS)
+
+## Markdown
+
+- [# Vite with ExpressJS Backend Integration](Vite-with-ExpressJS-Backend-Integration)
 
 Tijdens de minor worden een aantal sessies georganiseerd om kennis te maken met het vakgebied. 
 Workshops, praatjes en lezingen van bedrijven en designers over het vakgebied. Nerd alert.
